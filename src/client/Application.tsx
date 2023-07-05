@@ -87,7 +87,7 @@ export const Application: FC = () => {
                                 Contacts
                             </NavLink>
                             <NavLink
-                                className="nav-link"
+                                className="nav-link cartBtn"
                                 data-testid="nav-link"
                                 activeClassName="active"
                                 to="/cart"
